@@ -1,7 +1,7 @@
 class Ingresso(): 
       def ImprimeValor(self,valor):
-        self.valor=valor
-        return self.valor
+        print("o Valor total é : {0}".format(valor))
+        return valor
 
 
     
